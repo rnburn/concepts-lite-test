@@ -1,1 +1,1 @@
-([http://www.rnburn.com/testing-gccs-new-concepts-features/])
+http://www.rnburn.com/testing-gccs-new-concepts-features/
